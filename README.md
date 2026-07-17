@@ -12,7 +12,7 @@ The project was developed using HTML, CSS, and JavaScript as part of a multimedi
 
 🌐 Try the website here:
 
-https://your-deployment-link
+https://zzzalll.github.io/EcoExplorer/
 ## Features
 
 - Responsive website design
