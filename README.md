@@ -48,19 +48,19 @@ The project was developed using HTML, CSS, and JavaScript as part of a multimedi
 
 ### Home Page
 
-*(Insert screenshot)*
+![Home Page](Screenshots/Home.png)
 
 ### Lesson Page
 
-*(Insert screenshot)*
+![Lesson Page](Screenshots/Lesson.png)
 
 ### Park Visitor Simulator
 
-*(Insert screenshot)*
+![Park Visitor Simulator](Screenshots/Simulator.png)
 
 ### Quiz
 
-*(Insert screenshot)*
+![Quiz](Screenshots/Quiz.png)
 
 ---
 
