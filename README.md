@@ -40,7 +40,7 @@ The project was developed using HTML, CSS, and JavaScript as part of a multimedi
 
 ## Live Demo
 
-**Website:** https://zzzalll.github.io/EcoExplorer/
+**Try the website here:** https://zzzalll.github.io/EcoExplorer/
 
 ---
 
