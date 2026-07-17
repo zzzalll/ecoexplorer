@@ -8,11 +8,6 @@ The project was developed using HTML, CSS, and JavaScript as part of a multimedi
 
 ---
 
-## Live Demo
-
-🌐 Try the website here:
-
-https://zzzalll.github.io/EcoExplorer/
 ## Features
 
 - Responsive website design
@@ -45,7 +40,7 @@ https://zzzalll.github.io/EcoExplorer/
 
 ## Live Demo
 
-**Website:** *(Paste your deployed link here)*
+**Website:** https://zzzalll.github.io/EcoExplorer/
 
 ---
 
